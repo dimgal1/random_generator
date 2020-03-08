@@ -1,0 +1,100 @@
+26 Jodi Carey COVID-2019 China 14-12-2007 07-01-2019
+53 Michael Crawford MERS-COV USA 22-06-2003 09-12-2015
+70 Cheryl Simon COVID-2019 Australia 18-08-2007 11-02-2014
+76 Deborah Sims DVM H1N1 Brazil 08-07-2007 05-06-2013
+93 Charles Rodriguez SARS-COV-2 Egypt 16-11-2017 29-01-2018
+37 Mr. Kyle Rodriguez SARS-COV-2 Argentina 07-07-2006 20-06-2008
+87 Laura Henderson EVD Germany 01-11-2006 29-09-2013
+71 Michelle White DVM COVID-2019 China 20-10-2004 -
+63 Jessica House MERS-COV Australia 03-07-2001 16-02-2006
+7 Paul Parker SARS-1 Russia 26-03-2004 01-04-2008
+99 Gregory Newton COVID-2019 Russia 01-08-2013 14-09-2019
+67 Richard Williams COVID-2019 France 02-02-2003 01-06-2013
+28 Crystal Stokes FLU-2018 Switzerland 26-03-2005 18-07-2019
+40 Dylan Webb SARS-1 Australia 15-06-2000 05-01-2015
+84 Julie Martin SARS-COV-2 Australia 10-07-2008 15-12-2016
+78 Timothy Prince FLU-2018 Germany 11-09-2001 10-12-2013
+91 Jasmin Gomez MERS-COV China 28-05-2008 25-08-2008
+23 Tanya Huang SARS-1 USA 07-09-2006 10-12-2007
+33 Daniel Olsen H1N1 Italy 20-11-2003 31-08-2011
+46 Whitney Taylor COVID-2019 Switzerland 12-08-2007 15-09-2012
+1 Andrea Rosario EVD Vietnam 06-09-2002 22-01-2012
+50 Kathryn Todd FLU-2018 Germany 15-02-2000 07-09-2015
+52 Amanda Osborn SARS-COV-2 France 08-12-2005 -
+80 Maurice Mason MERS-COV Egypt 10-06-2010 13-11-2019
+88 Scott Brown H1N1 France 25-04-2003 07-06-2019
+92 Ms. Sheila Hill COVID-2019 Denmark 12-07-2010 12-10-2013
+36 Billy Hurst H1N1 Egypt 25-03-2014 17-04-2019
+29 Tonya Clark COVID-2019 Australia 01-09-2002 16-06-2016
+13 Brian Smith EVD USA 21-06-2007 -
+31 Robin Myers H1N1 Greece 10-01-2000 16-12-2012
+47 Jeffrey Jones FLU-2018 Argentina 25-11-2012 26-11-2016
+6 Christopher Ruiz SARS-COV-2 Turkey 31-07-2015 08-04-2016
+60 Veronica Turner FLU-2018 Germany 10-11-2012 24-11-2015
+24 Bobby Kirk COVID-2019 Greece 28-07-2003 30-03-2011
+98 Dana Brown MERS-COV China 23-10-2006 16-02-2015
+18 Brenda Reed MERS-COV Egypt 27-09-2011 22-01-2012
+30 Jessica Rose COVID-2019 Germany 14-12-2000 -
+51 Anthony Pittman SARS-COV-2 Egypt 27-10-2011 16-08-2019
+9 Hunter Roman COVID-2019 Denmark 01-09-2002 17-08-2007
+43 Michael Nelson II MERS-COV Vietnam 05-06-2014 02-09-2014
+90 Elizabeth James SARS-1 Denmark 21-01-2012 25-06-2015
+16 Nicholas Thomas FLU-2018 Switzerland 27-04-2007 13-09-2019
+49 Richard Brown H1N1 Switzerland 20-11-2008 28-06-2011
+4 Hannah Ramirez COVID-2019 Denmark 15-01-2005 04-08-2010
+58 Brenda Steele FLU-2018 Turkey 21-03-2019 04-01-2020
+38 Jason Warner SARS-1 Brazil 24-03-2003 03-11-2015
+62 Jesse Mcguire DDS SARS-COV-2 China 07-06-2009 23-07-2017
+15 Kimberly Green SARS-COV-2 Russia 08-03-2011 31-08-2017
+17 Robin Love COVID-2019 Italy 10-06-2002 -
+59 Chelsea Swanson EVD France 29-12-2006 15-11-2015
+64 Derrick Montgomery COVID-2019 Australia 21-07-2000 06-10-2003
+96 Lori Smith FLU-2018 Greece 30-09-2007 22-02-2015
+74 Robert Brown MERS-COV Brazil 20-02-2004 -
+54 John Thompson H1N1 Italy 26-06-2003 03-09-2017
+79 Micheal Thompson SARS-COV-2 France 29-04-2009 -
+48 Zachary Brooks SARS-COV-2 Denmark 01-07-2004 26-11-2017
+42 Darryl Stewart MERS-COV Russia 09-05-2010 05-11-2011
+22 Brianna Wood EVD Australia 09-01-2000 05-04-2013
+81 Richard Hensley COVID-2019 Switzerland 15-05-2002 08-03-2017
+20 Michael Berry FLU-2018 France 28-07-2002 17-06-2003
+3 Pamela Meyer MERS-COV Germany 29-06-2004 06-06-2007
+39 Brianna Gonzalez SARS-COV-2 China 03-04-2015 04-06-2016
+2 Brandon White FLU-2018 Egypt 06-12-2001 06-07-2012
+44 Jennifer Carpenter FLU-2018 Turkey 02-01-2007 06-02-2020
+10 April Weber MERS-COV Greece 08-03-2005 29-12-2008
+75 Dr. Sara Brown MD COVID-2019 China 20-07-2006 25-04-2011
+8 Sandy Lewis H1N1 Egypt 05-03-2001 14-02-2011
+69 Cody Gallegos SARS-COV-2 Brazil 28-06-2002 22-03-2004
+25 Taylor Williams H1N1 Greece 20-08-2001 04-09-2015
+41 Christopher Landry COVID-2019 Turkey 27-11-2002 30-04-2012
+56 John Hess H1N1 Brazil 14-07-2011 29-11-2015
+21 Susan James EVD Brazil 03-02-2001 28-02-2019
+19 Stacy Stone EVD USA 08-03-2004 03-10-2015
+34 Christine Brown SARS-COV-2 USA 26-05-2000 07-07-2016
+12 Taylor Wagner DVM H1N1 Vietnam 07-10-2015 05-12-2015
+94 Allen Moore MERS-COV Turkey 20-07-2014 01-04-2019
+85 Meghan Brown COVID-2019 Vietnam 21-04-2003 28-09-2011
+72 Steven Sanders MERS-COV Switzerland 14-04-2001 07-09-2018
+83 Joseph White H1N1 Germany 27-03-2006 22-02-2007
+73 Steven Reed H1N1 Switzerland 31-08-2001 02-08-2014
+5 Lisa Ho FLU-2018 China 27-05-2005 27-02-2014
+57 Shari Dixon EVD Australia 15-10-2012 17-08-2017
+97 Mrs. Lisa Nolan MERS-COV Denmark 16-09-2008 17-09-2014
+55 Hailey Walker MERS-COV Italy 20-05-2001 27-09-2001
+0 Matthew Shaffer EVD China 06-04-2009 15-03-2014
+77 William Callahan EVD China 21-09-2004 -
+65 Billy Kirby MERS-COV Russia 27-08-2008 25-02-2012
+45 Leslie Grant FLU-2018 Italy 30-07-2006 21-06-2011
+27 Taylor Dean MERS-COV Switzerland 16-06-2014 -
+66 Anthony Alvarado H1N1 China 03-12-2000 05-08-2018
+95 Mr. Travis Johnson EVD France 13-05-2003 08-09-2016
+86 Amanda Parker H1N1 China 25-06-2000 04-08-2017
+35 Jennifer Malone MERS-COV France 31-08-2001 10-07-2016
+14 Curtis Yang FLU-2018 Argentina 28-12-2011 26-07-2019
+32 Douglas Scott COVID-2019 France 21-05-2003 -
+11 Ryan Rodgers H1N1 USA 19-11-2011 03-02-2014
+82 Matthew Massey MERS-COV Australia 09-11-2006 23-03-2015
+61 Patricia Lambert FLU-2018 China 02-10-2006 19-07-2008
+89 Alicia Pierce FLU-2018 Egypt 24-06-2002 01-01-2016
+68 Kathryn Snow COVID-2019 USA 27-01-2005 -
