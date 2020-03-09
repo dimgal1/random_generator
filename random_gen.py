@@ -4,6 +4,7 @@ import random
 from faker import Faker
 
 ENTRIES = 100
+TARGET_FILE = "test.txt"
 DISEASES = ["COVID-2019", "SARS-1", "H1N1", "FLU-2018", "SARS-COV-2", "MERS-COV", "EVD"]
 COUNTRIES = ["Greece", "USA", "Brazil", "China", "Denmark", "Egypt", "Argentina", "Australia",
              "Russia", "Italy", "Switzerland", "Turkey", "Vietnam", "France", "Germany"]
@@ -15,7 +16,7 @@ if __name__ == "__main__":
     fake = Faker()
     # fake.country().replace(" ", "_")
 
-    with open("small.txt", "w") as f:
+    with open(TARGET_FILE, "w") as f:
         for i in range(ENTRIES):
             entry_date = fake.date_this_century(before_today=True, after_today=False)
             exit_date = fake.date_this_century(before_today=True, after_today=False)
