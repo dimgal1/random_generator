@@ -22,7 +22,7 @@ if __name__ == "__main__":
             exit_date = fake.date_this_century(before_today=True, after_today=False)
             if entry_date > exit_date:
                 entry_date, exit_date = exit_date, entry_date
-            f.write("{} {} {} {} {} {}\n".format(
-                id_list[i], fake.name(), random.choice(DISEASES),
+            f.write("{} {} {} {} {} {} {}\n".format(
+                id_list[i], fake.first_name(), fake.last_name(), random.choice(DISEASES),
                 random.choice(COUNTRIES), entry_date.strftime('%d-%m-%Y'),
                 str(random.choices([exit_date.strftime('%d-%m-%Y'), "-"], [0.9, 0.1])).strip("[]'")))
