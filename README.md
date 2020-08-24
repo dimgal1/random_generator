@@ -1,4 +1,4 @@
-#### A data generator used in System Programming 1st programming exercise @020
+#### A data generator used in System Programming 1st programming exercise 2020
 
 Format:
 ID FirstName LastName Disease Country entryDate exitDate
